@@ -7,16 +7,17 @@ Sources: <br />
 
 # Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle
 
-Bottom Line, Up Front: 
-(1) I need to get better at drawing on tablets,
-
-(2) Learning different perspectives on the same topic facilitates improvement, and…
-
-(3) Intelligence Lifecycle doesn’t begin with requirements – it begins with building relationships that lead to clarity on requirements to kickstart the process which leads back to further relationship-building for:
-
-(a) feedback, 
-(b) optimization of process for…
-(c) higher quality work product, and…
+Bottom Line, Up Front: <br />
+<br />
+(1) I need to get better at drawing on tablets,<br />
+<br />
+(2) Learning different perspectives on the same topic facilitates improvement, and…<br />
+<br />
+(3) Intelligence Lifecycle doesn’t begin with requirements – it begins with building relationships that lead to clarity on requirements to kickstart the process which leads back to further relationship-building for:<br />
+<br />
+(a) feedback,  <br />
+(b) optimization of process for… <br />
+(c) higher quality work product, and… <br />
 (d) ensuring the “so what” aspect of CTI efforts are leading to the delivery of impactful, meaningful value.
 
 <h2>Situation:</h2>
