@@ -1,4 +1,4 @@
-Topic: CTI Lifecycle Notes 1 <br />
+Topic: CTI Lifecycle Notes <br />
 Subject: Comparing three (3) interpretations of the lifecycle of intelligence <br />
 Sources: <br />
 (1) Recorded Future | Book - Threat Intelligence Handbook- 6 Steps <br />
