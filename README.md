@@ -19,7 +19,7 @@ Bottom Line, Up Front:
 (c) higher quality work product, and…
 (d) ensuring the “so what” aspect of CTI efforts are leading to the delivery of impactful, meaningful value.
 
-Situation:
+<h2>Situation:</h2>
 
 Three reputable, noteworthy sources – each with extensive discipline in the field of Cyber Threat Intelligence (CTI) – have published their take on the CTI Lifecycle.
 
@@ -27,7 +27,7 @@ Which one is correct?
 
 Which one will facilitate greater results for the practitioner and, ultimately, the organization?
 
-Discussion:
+<h2>Discussion:</h2>
 
 Below is an image with the three various models – and noted sources – found for the CTI Lifecycle.  
 
@@ -35,13 +35,13 @@ Below is an image with the three various models – and noted sources – found 
 
 On review, three aspects are of prima facia interest:
 
-(a) The amount of steps in each lifecycle manifestation.
+<h3>(a) The amount of steps in each lifecycle manifestation.</h3>
 
 Let’s compare – 
 
 ![table1cti3models](https://github.com/reachchrisyoung/CTI-Lifecycle-Notes-1/assets/104402775/f7d4040a-ee79-481f-8b47-a16c73358708)
 
-(b) Implications
+<h3>(b) Implications</h3>
 
 Recorded Future and Gary Ruddell make a clear distinction on the need to receive guidance on the requirements for the organization.  
 
@@ -58,7 +58,7 @@ Having investigated each sources’ work further, it is clear that each model ag
 + Someone will ultimately receive the intelligence output – and it is hoped that the product will be of significant value, help, and maximum use to those receiving said product.
 + In each model returning to a requirement stage, it is imperative that the CTI professional proactively discover the outcomes of their efforts. 
 
-(c) Impressions
+<h3>(c) Impressions</h3>
 
 I was impressed by the baked-in implication – not stated in the section above merely for the sake of allowing it to be the kickoff point of this section – that it is on the onus of the CTI practitioner to actively pursue the following:
 
@@ -76,7 +76,7 @@ I was impressed by the baked-in implication – not stated in the section above 
 
 + Improve in their ability to deliver the intelligence in a helpful way – which could range from telling a story to relating the information to that which is of interest to the intended audience (even the stakeholder).  
 
-(d) Congruence
+<h3>(d) Congruence</h3>
 
 Each model reinforces their neighboring models. 
 
@@ -92,7 +92,7 @@ To this end, each model notionally checks off the original six line items reflec
 
 Is one model more superior than the other, however?
 
-(e) All Models Are Equal in Purpose
+<h3>(e) All Models Are Equal in Purpose</h3>
 
 I would suggest that neither model is superior to the other; instead, these are different lenses whereby the same process is viewed.
 
@@ -118,7 +118,7 @@ E – Equipment
 
 In harmony with this example, it is likely that the effort was made to reduce and more readily embrace the six steps originally presented in Recorded Future’s text with no intention of omitting the essential and direly needed step of obtaining feedback and asking for the time of the stakeholder to better facilitate their needs in an ongoing fashion.  
 
-Conclusion:
+<h2> Conclusion: </h2>
 
 The Intelligence Lifecycle doesn’t begin with requirements – it begins with building relationships that lead to clarity on requirements to kickstart the process which leads back to further relationship-building for:
 
